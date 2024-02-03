@@ -1,0 +1,2 @@
+Brain stroke is a critical medical condition that requires prompt diagnosis and intervention to minimize its devastating eects. In recent years, data-driven approaches have played a crucial role in predicting and preventing brain strokes.
+This project showcases the potential of data-driven approaches to predict brain strokes using Python and a comprehensive dataset. The predictive model can assist healthcare professionals in identifying individuals at a higher risk of brain strokes, allowing for early intervention and preventive measures.
